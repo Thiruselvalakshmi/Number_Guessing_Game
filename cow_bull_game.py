@@ -1,3 +1,8 @@
+'''
+A number guessing game where a random two digit number is guessed by the system.
+The user need to find the number with 7 chances.
+'''
+
 import random
 print("WELCOME TO COWS & BULLS GAME")
 print("Enjoy your game")
