@@ -1,6 +1,7 @@
 '''
 A number guessing game where a random two digit number is guessed by the system.
 The user need to find the number with 7 chances.
+After every wrong guess done by the user a hint is given related to the number.
 '''
 
 import random
